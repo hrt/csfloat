@@ -1,6 +1,6 @@
 # CSFloat API Reference
 
-This document provides a comprehensive reference for the CSFloat API endpoints discovered from analyzing the codebase.
+LLM generated docs of endpoints I've used.
 
 ## Table of Contents
 
