@@ -1,7 +1,7 @@
 title: CSFloat API Documentation
 description: Unofficial API reference for CSFloat.com
-baseurl: ""
-url: ""
+baseurl: "/csfloat"
+url: "https://hrt.github.io"
 
 remote_theme: just-the-docs/just-the-docs
 color_scheme: dark
