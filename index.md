@@ -8,6 +8,8 @@ nav_order: 1
 
 Unofficial API reference for [CSFloat.com](https://csfloat.com) - the CS2 skin marketplace.
 
+Entirely LLM generated so use at your own risk.
+
 {: .warning }
 This is an **unofficial** documentation. Endpoints may change without notice.
 
